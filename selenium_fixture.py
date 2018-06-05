@@ -1,10 +1,11 @@
 from selenium import webdriver
 import pytest
+from model.application import Application
 
 @pytest.fixture
-def driver(request):
+def app(request):
     driver = webdriver.Chrome()
     driver.implicitly_wait(30)
     request.addfinalizer(driver.quit)
-    return driver
+    return Application(driver)
 
