@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ad73eda8-20b0-4208-9028-f8b75e4289c5" name="Default" comment="">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/user.py" afterDir="false" />
+>>>>>>> parent of dfa8c79... add conftest
       <change beforePath="$PROJECT_DIR$/selenium_fixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/selenium_fixture.py" afterDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/Test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_login.py" afterDir="false" />
@@ -18,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test_login.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Test_login.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -30,6 +37,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conftest.py">
@@ -45,6 +53,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+=======
+      <file leaf-file-name="selenium_fixture.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+>>>>>>> parent of dfa8c79... add conftest
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -55,8 +70,13 @@
       <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/application.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="136">
               <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+=======
+            <state relative-caret-position="221">
+              <caret line="40" column="92" lean-forward="true" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
+>>>>>>> parent of dfa8c79... add conftest
               <folding>
                 <element signature="e#24#67#0" expanded="true" />
               </folding>
@@ -106,16 +126,23 @@
         <option value="$PROJECT_DIR$/model/application.py" />
         <option value="$PROJECT_DIR$/model/user.py" />
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/model/application.py" />
         <option value="$PROJECT_DIR$/Test_login.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
 =======
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
         <option value="$PROJECT_DIR$/selenium_fixture.py" />
+=======
+        <option value="$PROJECT_DIR$/selenium_fixture.py" />
+        <option value="$PROJECT_DIR$/model/application.py" />
+        <option value="$PROJECT_DIR$/Test_login.py" />
+>>>>>>> parent of dfa8c79... add conftest
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="x" value="105" />
     <option name="y" value="134" />
@@ -123,6 +150,10 @@
     <option name="x" value="324" />
     <option name="y" value="211" />
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+    <option name="x" value="437" />
+    <option name="y" value="133" />
+>>>>>>> parent of dfa8c79... add conftest
     <option name="width" value="1400" />
     <option name="height" value="815" />
   </component>
@@ -138,6 +169,17 @@
             <path>
               <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_and_py" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium_and_py" type="462c0819:PsiDirectoryNode" />
+              <item name="ENV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium_and_py" type="462c0819:PsiDirectoryNode" />
+              <item name="ENV" type="462c0819:PsiDirectoryNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
@@ -186,24 +228,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="selenium_and_py" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conftest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Unnamed" type="tests" factoryName="py.test">
       <module name="selenium_and_py" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +245,6 @@
     <list>
       <item itemvalue="Python tests.Unnamed" />
       <item itemvalue="Python.Test_login" />
-      <item itemvalue="Python.conftest" />
     </list>
     <recent_temporary>
       <list>
@@ -245,6 +268,27 @@
   </component>
   <component name="TestHistory">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <history-entry file="Unnamed - 2018.06.06 at 11h 47m 46s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 11h 48m 08s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 11h 57m 53s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 11h 58m 36s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 12h 00m 06s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 12h 02m 16s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+>>>>>>> parent of dfa8c79... add conftest
     <history-entry file="Unnamed - 2018.06.06 at 12h 03m 34s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
@@ -257,6 +301,7 @@
     <history-entry file="Unnamed - 2018.06.06 at 13h 17m 02s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+<<<<<<< HEAD
     <history-entry file="Unnamed - 2018.06.06 at 14h 05m 51s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
@@ -312,6 +357,11 @@
 =======
     <frame x="324" y="211" width="1400" height="815" extended-state="0" />
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="437" y="133" width="1400" height="815" extended-state="0" />
+>>>>>>> parent of dfa8c79... add conftest
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2384393" />
@@ -365,13 +415,40 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+=======
+    <entry file="file://$PROJECT_DIR$/model/user.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18139">
-          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        <state relative-caret-position="238">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
+>>>>>>> parent of dfa8c79... add conftest
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/model/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="40" column="92" lean-forward="true" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
+          <folding>
+            <element signature="e#24#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> parent of dfa8c79... add conftest
     <entry file="file://$PROJECT_DIR$/Test_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -382,6 +459,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -427,5 +505,7 @@
     </entry>
 =======
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+>>>>>>> parent of dfa8c79... add conftest
   </component>
 </project>
