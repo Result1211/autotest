@@ -62,9 +62,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selenium_fixture.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18139">
+              <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selenium_fixture.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="238">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
 =======
@@ -84,6 +94,10 @@
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
+=======
+            <state relative-caret-position="170">
+              <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+>>>>>>> parent of 6553935... Wrong_add
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -97,7 +111,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="136">
+=======
+            <state relative-caret-position="85">
+>>>>>>> parent of 6553935... Wrong_add
               <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
 =======
             <state relative-caret-position="221">
@@ -125,7 +143,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/user.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -304,8 +322,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test_login" />
         <item itemvalue="Python.conftest" />
+        <item itemvalue="Python.Test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -327,6 +345,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of dfa8c79... add conftest
@@ -341,6 +360,8 @@
     <history-entry file="Unnamed - 2018.06.06 at 11h 57m 53s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+=======
+>>>>>>> parent of 6553935... Wrong_add
     <history-entry file="Unnamed - 2018.06.06 at 11h 58m 36s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
@@ -350,7 +371,10 @@
     <history-entry file="Unnamed - 2018.06.06 at 12h 02m 16s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+<<<<<<< HEAD
 >>>>>>> parent of dfa8c79... add conftest
+=======
+>>>>>>> parent of 6553935... Wrong_add
     <history-entry file="Unnamed - 2018.06.06 at 12h 03m 34s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
@@ -375,6 +399,7 @@
     <history-entry file="Unnamed - 2018.06.06 at 14h 19m 23s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+<<<<<<< HEAD
     <history-entry file="Unnamed - 2018.06.06 at 14h 35m 51s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
@@ -414,6 +439,8 @@
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+=======
+>>>>>>> parent of 6553935... Wrong_add
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
@@ -517,8 +544,19 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <entry file="file://$PROJECT_DIR$/model/application.py">
+=======
+    <entry file="file://$PROJECT_DIR$/model/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+>>>>>>> parent of 6553935... Wrong_add
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="40" column="92" lean-forward="true" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
@@ -528,7 +566,20 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 >>>>>>> parent of dfa8c79... add conftest
+=======
+    <entry file="file://$PROJECT_DIR$/model/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> parent of 6553935... Wrong_add
     <entry file="file://$PROJECT_DIR$/Test_login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -551,6 +602,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
 =======
@@ -561,12 +613,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+        <state relative-caret-position="170">
+          <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+>>>>>>> parent of 6553935... Wrong_add
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/model/application.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -593,5 +650,7 @@
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
+=======
+>>>>>>> parent of 6553935... Wrong_add
   </component>
 </project>

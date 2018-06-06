@@ -7,8 +7,8 @@ from model.application import Application
 def app(request, browser_type, base_url):
     if browser_type == "Chrome":
         driver = webdriver.Chrome()
-    elif browser_type == "firefox":
-        driver = webdriver.FireFox("C:\FF_driver\geckodriver.exe")
+    elif browser_type == "firefox"
+        driver == webdriver.FireFox ("C:\FF_driver\geckodriver.exe")
    # driver.implicitly_wait(30)
    
 @pytest.fixture
