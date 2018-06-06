@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of dfa8c79... add conftest
@@ -27,6 +28,10 @@
       <change beforePath="$PROJECT_DIR$/Test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/application.py" afterDir="false" />
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+      <change beforePath="$PROJECT_DIR$/Test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/application.py" afterDir="false" />
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,7 +42,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test_login.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test_login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test_login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -49,6 +54,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -139,6 +145,13 @@
             <state>
               <caret column="23" selection-start-column="23" selection-end-column="23" />
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+      <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model/application.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
             </state>
           </provider>
         </entry>
@@ -194,6 +207,7 @@
 >>>>>>> parent of dfa8c79... add conftest
 =======
         <option value="$PROJECT_DIR$/selenium_fixture.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/model/application.py" />
         <option value="$PROJECT_DIR$/Test_login.py" />
 >>>>>>> parent of dfa8c79... add conftest
@@ -202,10 +216,13 @@
         <option value="$PROJECT_DIR$/model/application.py" />
         <option value="$PROJECT_DIR$/Test_login.py" />
 >>>>>>> parent of dfa8c79... add conftest
+=======
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -228,6 +245,10 @@
     <option name="x" value="437" />
     <option name="y" value="133" />
 >>>>>>> parent of dfa8c79... add conftest
+=======
+    <option name="x" value="324" />
+    <option name="y" value="211" />
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
     <option name="width" value="1400" />
     <option name="height" value="815" />
   </component>
@@ -243,17 +264,6 @@
             <path>
               <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_and_py" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_and_py" type="462c0819:PsiDirectoryNode" />
-              <item name="ENV" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
-              <item name="selenium_and_py" type="462c0819:PsiDirectoryNode" />
-              <item name="ENV" type="462c0819:PsiDirectoryNode" />
-              <item name="Lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium_and_py" type="b2602c69:ProjectViewProjectNode" />
@@ -346,45 +356,57 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
     <history-entry file="Unnamed - 2018.06.06 at 11h 47m 46s.xml">
+=======
+    <history-entry file="Unnamed - 2018.06.05 at 15h 53m 41s.xml">
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 11h 48m 08s.xml">
+    <history-entry file="Unnamed - 2018.06.05 at 15h 56m 36s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 11h 57m 53s.xml">
+    <history-entry file="Unnamed - 2018.06.05 at 15h 58m 59s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 6553935... Wrong_add
     <history-entry file="Unnamed - 2018.06.06 at 11h 58m 36s.xml">
+=======
+    <history-entry file="Unnamed - 2018.06.05 at 16h 00m 47s.xml">
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 12h 00m 06s.xml">
+    <history-entry file="Unnamed - 2018.06.05 at 16h 17m 54s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 12h 02m 16s.xml">
+    <history-entry file="Unnamed - 2018.06.05 at 16h 20m 01s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of 6553935... Wrong_add
     <history-entry file="Unnamed - 2018.06.06 at 12h 03m 34s.xml">
+=======
+    <history-entry file="Unnamed - 2018.06.05 at 16h 23m 02s.xml">
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 13h 14m 12s.xml">
+    <history-entry file="Unnamed - 2018.06.05 at 16h 33m 42s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 13h 15m 06s.xml">
+    <history-entry file="Unnamed - 2018.06.05 at 16h 36m 38s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 13h 17m 02s.xml">
+    <history-entry file="Unnamed - 2018.06.05 at 16h 40m 33s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
 <<<<<<< HEAD
@@ -456,6 +478,7 @@
 =======
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="437" y="133" width="1400" height="815" extended-state="0" />
 >>>>>>> parent of dfa8c79... add conftest
 =======
@@ -463,6 +486,9 @@
   <component name="ToolWindowManager">
     <frame x="437" y="133" width="1400" height="815" extended-state="0" />
 >>>>>>> parent of dfa8c79... add conftest
+=======
+    <frame x="324" y="211" width="1400" height="815" extended-state="0" />
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2384393" />
@@ -499,6 +525,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/application.py">
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
@@ -523,6 +550,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
         </state>
       </provider>
     </entry>
@@ -535,8 +567,13 @@
 =======
 >>>>>>> parent of dfa8c79... add conftest
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="85">
           <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+=======
+        <state>
+          <caret selection-end-column="23" />
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -549,23 +586,24 @@
     <entry file="file://$PROJECT_DIR$/model/application.py">
 =======
     <entry file="file://$PROJECT_DIR$/model/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
 >>>>>>> parent of 6553935... Wrong_add
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="221">
           <caret line="40" column="92" lean-forward="true" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
+=======
+        <state>
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
           <folding>
             <element signature="e#24#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of dfa8c79... add conftest
 =======
@@ -652,5 +690,7 @@
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of 6553935... Wrong_add
+=======
+>>>>>>> parent of 0d28f7e... add asserts (login, logout)
   </component>
 </project>
