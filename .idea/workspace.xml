@@ -5,7 +5,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -13,6 +16,9 @@
       <change beforePath="$PROJECT_DIR$/model/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/application.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/user.py" afterDir="false" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of dfa8c79... add conftest
+=======
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
@@ -46,6 +52,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,12 +70,17 @@
 =======
 =======
 >>>>>>> parent of dfa8c79... add conftest
+=======
+>>>>>>> parent of dfa8c79... add conftest
       <file leaf-file-name="selenium_fixture.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of dfa8c79... add conftest
+=======
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
@@ -84,8 +96,13 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="136">
               <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+=======
+            <state relative-caret-position="221">
+              <caret line="40" column="92" lean-forward="true" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
+>>>>>>> parent of dfa8c79... add conftest
 =======
             <state relative-caret-position="221">
               <caret line="40" column="92" lean-forward="true" selection-start-line="40" selection-start-column="92" selection-end-line="40" selection-end-column="92" />
@@ -145,12 +162,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/model/application.py" />
         <option value="$PROJECT_DIR$/Test_login.py" />
         <option value="$PROJECT_DIR$/conftest.py" />
 =======
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
         <option value="$PROJECT_DIR$/selenium_fixture.py" />
+=======
+        <option value="$PROJECT_DIR$/selenium_fixture.py" />
+        <option value="$PROJECT_DIR$/model/application.py" />
+        <option value="$PROJECT_DIR$/Test_login.py" />
+>>>>>>> parent of dfa8c79... add conftest
 =======
         <option value="$PROJECT_DIR$/selenium_fixture.py" />
         <option value="$PROJECT_DIR$/model/application.py" />
@@ -168,12 +191,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="x" value="105" />
     <option name="y" value="134" />
 =======
     <option name="x" value="324" />
     <option name="y" value="211" />
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+    <option name="x" value="437" />
+    <option name="y" value="133" />
+>>>>>>> parent of dfa8c79... add conftest
 =======
     <option name="x" value="437" />
     <option name="y" value="133" />
@@ -298,7 +326,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
     <history-entry file="Unnamed - 2018.06.06 at 11h 47m 46s.xml">
@@ -332,6 +363,7 @@
     <history-entry file="Unnamed - 2018.06.06 at 13h 17m 02s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <history-entry file="Unnamed - 2018.06.06 at 14h 05m 51s.xml">
@@ -389,6 +421,11 @@
 =======
     <frame x="324" y="211" width="1400" height="815" extended-state="0" />
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="437" y="133" width="1400" height="815" extended-state="0" />
+>>>>>>> parent of dfa8c79... add conftest
 =======
   </component>
   <component name="ToolWindowManager">
@@ -464,6 +501,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of dfa8c79... add conftest
+=======
 >>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
@@ -499,6 +539,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/conftest.py">
@@ -546,6 +587,8 @@
     </entry>
 =======
 >>>>>>> parent of 0d28f7e... add asserts (login, logout)
+=======
+>>>>>>> parent of dfa8c79... add conftest
 =======
 >>>>>>> parent of dfa8c79... add conftest
 =======
