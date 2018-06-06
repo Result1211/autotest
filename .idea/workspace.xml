@@ -34,20 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18139">
-              <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selenium_fixture.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selenium_fixture.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -58,7 +49,7 @@
       <file leaf-file-name="application.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/application.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
+            <state relative-caret-position="136">
               <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
                 <element signature="e#24#67#0" expanded="true" />
@@ -67,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="user.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/user.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -204,8 +195,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.conftest" />
         <item itemvalue="Python.Test_login" />
+        <item itemvalue="Python.conftest" />
       </list>
     </recent_temporary>
   </component>
@@ -223,15 +214,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2018.06.06 at 11h 58m 36s.xml">
-      <configuration name="Unnamed" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 12h 00m 06s.xml">
-      <configuration name="Unnamed" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unnamed - 2018.06.06 at 12h 02m 16s.xml">
-      <configuration name="Unnamed" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unnamed - 2018.06.06 at 12h 03m 34s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
@@ -251,6 +233,15 @@
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
     <history-entry file="Unnamed - 2018.06.06 at 14h 19m 23s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 14h 35m 51s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 14h 38m 32s.xml">
+      <configuration name="Unnamed" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unnamed - 2018.06.06 at 14h 38m 46s.xml">
       <configuration name="Unnamed" configurationId="tests" />
     </history-entry>
   </component>
@@ -328,27 +319,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/user.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18139">
           <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/application.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="e#24#67#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -371,11 +345,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium_fixture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="68" lean-forward="true" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
         </state>
       </provider>
     </entry>
